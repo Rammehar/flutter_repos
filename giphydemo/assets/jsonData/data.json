@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "Ram",
+      "age": 20
+    },
+    {
+      "name": "Shayam",
+      "age": 20
+    },
+    {
+      "name": "Pawan",
+      "age": 20
+    }
+  ]
+}
